@@ -1,6 +1,6 @@
 # Docker: GStreamer
 
-Docker image with GStreamer built from sources.
+Docker images with GStreamer
 
 # License
 
